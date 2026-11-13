@@ -28,10 +28,10 @@
       "iconURL": "https://github.com/QuinnTang74.png",
       "versions": [
         {
-          "version": "3.2.3",
-          "date": "2026-11-12T13:27:16Z",
-          "downloadURL": "https://github.com/QuinnTang74/3106/releases/download/v3.2.3/3106-3.2.3-unsigned.ipa",
-          "size": 5111083,
+          "version": "3.2.5",
+          "date": "2026-11-13T13:18:39Z",
+          "downloadURL": "https://github.com/QuinnTang74/3106/releases/download/v3.2.5/3106-3.2.5-unsigned.ipa",
+          "size": 5625556,
           "minOSVersion": "16.0"
         }
       ],
@@ -45,10 +45,10 @@
       "iconURL": "https://github.com/hseons.png",
       "versions": [
         {
-          "version": "0.3.1",
-          "date": "2026-11-12T12:58:23Z",
-          "downloadURL": "https://github.com/hseons/WQManager/releases/download/v0.3.1/WQManager-0.3.1-unsigned.ipa",
-          "size": 705110,
+          "version": "0.3.2",
+          "date": "2026-11-13T14:09:11Z",
+          "downloadURL": "https://github.com/hseons/WQManager/releases/download/v0.3.2/WQManager-0.3.2-unsigned-20261113-2201.ipa",
+          "size": 788605,
           "minOSVersion": "26.0"
         }
       ],
@@ -62,10 +62,10 @@
       "iconURL": "https://github.com/mengangs.png",
       "versions": [
         {
-          "version": "2.0.0",
-          "date": "2026-11-12T10:41:39Z",
-          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.0.0/iPadn-2.0.0-unsigned.ipa",
-          "size": 48201588,
+          "version": "2.1.0",
+          "date": "2026-11-13T12:52:49Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.1.0/iPadn-2.1.0-unsigned.ipa",
+          "size": 48815240,
           "minOSVersion": "16.0"
         }
       ],
@@ -172,6 +172,40 @@
         }
       ],
       "xGithubRepository": "Predidit/Kazumi"
+    },
+    {
+      "name": "Regitela",
+      "bundleIdentifier": "com.ichitaso.regitela",
+      "developerName": "ichitaso",
+      "localizedDescription": "来自 GitHub 官方项目 ichitaso/Regitela。",
+      "iconURL": "https://github.com/ichitaso.png",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-11-13T12:09:20Z",
+          "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.2/Regitela_1.0.2.ipa",
+          "size": 3584428,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "xGithubRepository": "ichitaso/Regitela"
+    },
+    {
+      "name": "Henge",
+      "bundleIdentifier": "com.henge.app",
+      "developerName": "Leviidev",
+      "localizedDescription": "来自 GitHub 官方项目 Leviidev/Henge。",
+      "iconURL": "https://github.com/Leviidev.png",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "date": "2026-11-10T23:53:38Z",
+          "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.3/Henge.ipa",
+          "size": 9036911,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "xGithubRepository": "Leviidev/Henge"
     },
     {
       "name": "One",
@@ -365,6 +399,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.9.6",
+          "buildVersion": "79",
+          "date": "2026-11-13",
+          "size": 773025,
+          "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.6/WQFiles.ipa",
+          "localizedDescription": "New: Search Inside Folders, Largest Files, Get Info, Duplicate, Copy to Folder, Favorites, Reopen Last Folder, update notice, Extract and Open for ZIPs, Thai. Safer SQLite save and app restore. Fixed: app backups could come out empty; app names on devices with an old app database file.",
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.9.5",
           "buildVersion": "73",
           "date": "2026-11-12",
@@ -498,40 +541,6 @@
         "privacy": {}
       },
       "xSourceURL": "https://raw.githubusercontent.com/kolbicz/WQFiles/main/source.json"
-    },
-    {
-      "name": "Regitela",
-      "bundleIdentifier": "com.ichitaso.regitela",
-      "developerName": "ichitaso",
-      "localizedDescription": "来自 GitHub 官方项目 ichitaso/Regitela。",
-      "iconURL": "https://github.com/ichitaso.png",
-      "versions": [
-        {
-          "version": "1.0.2",
-          "date": "2026-11-13T12:09:20Z",
-          "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.2/Regitela_1.0.2.ipa",
-          "size": 3584428,
-          "minOSVersion": "17.0"
-        }
-      ],
-      "xGithubRepository": "ichitaso/Regitela"
-    },
-    {
-      "name": "Henge",
-      "bundleIdentifier": "com.henge.app",
-      "developerName": "Leviidev",
-      "localizedDescription": "来自 GitHub 官方项目 Leviidev/Henge。",
-      "iconURL": "https://github.com/Leviidev.png",
-      "versions": [
-        {
-          "version": "0.3.0",
-          "date": "2026-11-10T23:53:38Z",
-          "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.3/Henge.ipa",
-          "size": 9036911,
-          "minOSVersion": "17.0"
-        }
-      ],
-      "xGithubRepository": "Leviidev/Henge"
     }
   ],
   "news": []
