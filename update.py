@@ -8,6 +8,7 @@ REPOS = [
  ('HGhubX','zxsos/HGhubX',None), ('AniCh','Sle2p/AniCh',None),
  ('Beans Music','XIaodou0416/Beans-Music',None), ('Cloudn','mengangs/Cloudn',None),
  ('Erosion-CN','Kianuni/Erosion-CN',None), ('Kazumi','Predidit/Kazumi',None),
+ ('Regitela','ichitaso/Regitela',None),
 ]
 SOURCES = [
  ('One','https://raw.githubusercontent.com/ios151/One-releases/main/altsource.json'),
