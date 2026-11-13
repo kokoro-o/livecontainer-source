@@ -11,10 +11,10 @@
       "iconURL": "https://github.com/huamidev.png",
       "versions": [
         {
-          "version": "1.0.7",
-          "date": "2026-11-12T17:14:29Z",
-          "downloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.0.7/GestaltX_1.0.7.ipa",
-          "size": 3563948,
+          "version": "1.1.1",
+          "date": "2026-11-13T16:46:05Z",
+          "downloadURL": "https://github.com/huamidev/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
+          "size": 6774794,
           "minOSVersion": "26.0"
         }
       ],
@@ -73,16 +73,16 @@
     },
     {
       "name": "HGhubX",
-      "bundleIdentifier": "com.hghub.huangguo",
+      "bundleIdentifier": "com.hghubx.app",
       "developerName": "zxsos",
       "localizedDescription": "来自 GitHub 官方项目 zxsos/HGhubX。",
       "iconURL": "https://github.com/zxsos.png",
       "versions": [
         {
-          "version": "1.2.19",
-          "date": "2026-11-11T07:47:10Z",
-          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v1.2.19/HGhub_1.2.19_ios.ipa",
-          "size": 3521136,
+          "version": "2.0.0",
+          "date": "2026-11-13T18:12:46Z",
+          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v2.0.0/HGhubX_2.0.0_ios.ipa",
+          "size": 3757105,
           "minOSVersion": "15.0"
         }
       ],
@@ -400,11 +400,11 @@
       "versions": [
         {
           "version": "0.9.6",
-          "buildVersion": "79",
+          "buildVersion": "81",
           "date": "2026-11-13",
-          "size": 773025,
+          "size": 780279,
           "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.6/WQFiles.ipa",
-          "localizedDescription": "New: Search Inside Folders, Largest Files, Get Info, Duplicate, Copy to Folder, Favorites, Reopen Last Folder, update notice, Extract and Open for ZIPs, Thai. Safer SQLite save and app restore. Fixed: app backups could come out empty; app names on devices with an old app database file.",
+          "localizedDescription": "New: Search Inside Folders, Largest Files, Get Info, Duplicate, Copy to Folder, Favorites, Reopen Last Folder, update notice, Extract and Open for ZIPs, Thai. Safer SQLite save and app restore. Fixed: app backups could come out empty; app names and missing app folders on iOS versions with an unknown app database layout.",
           "minOSVersion": "26.0"
         },
         {
