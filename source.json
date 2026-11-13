@@ -515,6 +515,23 @@
         }
       ],
       "xGithubRepository": "ichitaso/Regitela"
+    },
+    {
+      "name": "Henge",
+      "bundleIdentifier": "com.henge.app",
+      "developerName": "Leviidev",
+      "localizedDescription": "来自 GitHub 官方项目 Leviidev/Henge。",
+      "iconURL": "https://github.com/Leviidev.png",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "date": "2026-11-10T23:53:38Z",
+          "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.3/Henge.ipa",
+          "size": 9036911,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "xGithubRepository": "Leviidev/Henge"
     }
   ],
   "news": []
