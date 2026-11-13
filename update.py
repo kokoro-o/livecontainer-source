@@ -7,7 +7,7 @@ REPOS = [
  ('WQManager','hseons/WQManager',None), ('iPadn','mengangs/ipadn',r'(?i)^(?!.*lite).*\.ipa$'),
  ('HGhubX','zxsos/HGhubX',None), ('AniCh','Sle2p/AniCh',None),
  ('Beans Music','XIaodou0416/Beans-Music',None), ('Cloudn','mengangs/Cloudn',None),
- ('Erosion','jailbreakdotparty/Erosion',None), ('Kazumi','Predidit/Kazumi',None),
+ ('Erosion-CN','Kianuni/Erosion-CN',None), ('Kazumi','Predidit/Kazumi',None),
 ]
 SOURCES = [
  ('One','https://raw.githubusercontent.com/ios151/One-releases/main/altsource.json'),

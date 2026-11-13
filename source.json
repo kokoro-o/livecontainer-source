@@ -140,21 +140,21 @@
       "xGithubRepository": "mengangs/Cloudn"
     },
     {
-      "name": "Erosion",
+      "name": "Erosion-CN",
       "bundleIdentifier": "com.jbdotparty.Erosion",
-      "developerName": "jailbreakdotparty",
-      "localizedDescription": "来自 GitHub 官方项目 jailbreakdotparty/Erosion。",
-      "iconURL": "https://github.com/jailbreakdotparty.png",
+      "developerName": "Kianuni",
+      "localizedDescription": "来自 GitHub 官方项目 Kianuni/Erosion-CN。",
+      "iconURL": "https://github.com/Kianuni.png",
       "versions": [
         {
-          "version": "0.3.1",
-          "date": "2026-11-10T04:44:50Z",
-          "downloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3.1/Erosion_v0.3.1.ipa",
-          "size": 2415476,
+          "version": "0.9.1",
+          "date": "2026-11-12T13:06:38Z",
+          "downloadURL": "https://github.com/Kianuni/Erosion-CN/releases/download/v0.9.1/Erosion_v0.9.1_Bilingual.ipa",
+          "size": 6277874,
           "minOSVersion": "26.0"
         }
       ],
-      "xGithubRepository": "jailbreakdotparty/Erosion"
+      "xGithubRepository": "Kianuni/Erosion-CN"
     },
     {
       "name": "Kazumi",
