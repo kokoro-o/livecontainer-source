@@ -130,10 +130,10 @@
       "iconURL": "https://github.com/mengangs.png",
       "versions": [
         {
-          "version": "1.4.1",
-          "date": "2026-10-24T03:52:30Z",
-          "downloadURL": "https://github.com/mengangs/Cloudn/releases/download/v1.4.1/Cloudn-v1.4.1.ipa",
-          "size": 8979537,
+          "version": "1.4.2",
+          "date": "2026-11-14T07:41:19Z",
+          "downloadURL": "https://github.com/mengangs/Cloudn/releases/download/v1.4.2/Cloudn-v1.4.2.ipa",
+          "size": 9034290,
           "minOSVersion": "17.0"
         }
       ],
@@ -181,10 +181,10 @@
       "iconURL": "https://github.com/ichitaso.png",
       "versions": [
         {
-          "version": "1.0.2",
-          "date": "2026-11-13T12:09:20Z",
-          "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.2/Regitela_1.0.2.ipa",
-          "size": 3584428,
+          "version": "1.0.3",
+          "date": "2026-11-14T16:29:35Z",
+          "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.3/Regitela_1.0.3.ipa",
+          "size": 3777792,
           "minOSVersion": "17.0"
         }
       ],
@@ -215,10 +215,10 @@
       "iconURL": "https://github.com/frs0n.png",
       "versions": [
         {
-          "version": "2.0.2",
-          "date": "2026-11-13T15:59:56Z",
-          "downloadURL": "https://github.com/frs0n/placard/releases/download/v2.0.2/placard-v2.0.2-unsigned.ipa",
-          "size": 6695549,
+          "version": "2.0.3",
+          "date": "2026-11-14T07:47:09Z",
+          "downloadURL": "https://github.com/frs0n/placard/releases/download/v2.0.3/placard-v2.0.3-unsigned.ipa",
+          "size": 6699817,
           "minOSVersion": "26.0"
         }
       ],
@@ -415,6 +415,15 @@
       "tintColor": "#1E8FC7",
       "category": "utilities",
       "versions": [
+        {
+          "version": "0.9.7",
+          "buildVersion": "87",
+          "date": "2026-11-14",
+          "size": 814659,
+          "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.7/WQFiles.ipa",
+          "localizedDescription": "New design: Home with container cards, tabs for Apps, Clean and Backups, Settings behind the gear. The previous design stays available (Settings → New Design). New screens translated into every language.",
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.9.6",
           "buildVersion": "81",
