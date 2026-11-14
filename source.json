@@ -541,6 +541,23 @@
         "privacy": {}
       },
       "xSourceURL": "https://raw.githubusercontent.com/kolbicz/WQFiles/main/source.json"
+    },
+    {
+      "name": "placard",
+      "bundleIdentifier": "me.ssus.placard",
+      "developerName": "frs0n",
+      "localizedDescription": "来自 GitHub 官方项目 frs0n/placard。",
+      "iconURL": "https://github.com/frs0n.png",
+      "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2026-11-13T15:59:56Z",
+          "downloadURL": "https://github.com/frs0n/placard/releases/download/v2.0.2/placard-v2.0.2-unsigned.ipa",
+          "size": 6695549,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "xGithubRepository": "frs0n/placard"
     }
   ],
   "news": []

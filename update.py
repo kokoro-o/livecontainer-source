@@ -10,6 +10,7 @@ REPOS = [
  ('Erosion-CN','Kianuni/Erosion-CN',None), ('Kazumi','Predidit/Kazumi',None),
  ('Regitela','ichitaso/Regitela',None),
  ('Henge','Leviidev/Henge',None),
+ ('placard','frs0n/placard',None),
 ]
 SOURCES = [
  ('One','https://raw.githubusercontent.com/ios151/One-releases/main/altsource.json'),
