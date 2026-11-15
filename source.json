@@ -45,10 +45,10 @@
       "iconURL": "https://github.com/hseons.png",
       "versions": [
         {
-          "version": "0.3.2",
-          "date": "2026-11-13T14:09:11Z",
-          "downloadURL": "https://github.com/hseons/WQManager/releases/download/v0.3.2/WQManager-0.3.2-unsigned-20261113-2201.ipa",
-          "size": 788605,
+          "version": "0.4.0",
+          "date": "2026-11-15T13:19:16Z",
+          "downloadURL": "https://github.com/hseons/WQManager/releases/download/v0.4.0/WQManager-0.4.0-unsigned.ipa",
+          "size": 849184,
           "minOSVersion": "26.0"
         }
       ],
@@ -62,10 +62,10 @@
       "iconURL": "https://github.com/mengangs.png",
       "versions": [
         {
-          "version": "2.1.1",
-          "date": "2026-11-14T05:53:21Z",
-          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.1.1/iPadn-2.1.1-unsigned.ipa",
-          "size": 48839470,
+          "version": "2.1.3",
+          "date": "2026-11-15T14:54:47Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.1.3/iPadn-2.1.3-unsigned.ipa",
+          "size": 49450949,
           "minOSVersion": "16.0"
         }
       ],
@@ -79,10 +79,10 @@
       "iconURL": "https://github.com/zxsos.png",
       "versions": [
         {
-          "version": "2.0.0",
-          "date": "2026-11-13T18:12:46Z",
-          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v2.0.0/HGhubX_2.0.0_ios.ipa",
-          "size": 3757105,
+          "version": "2.1.2",
+          "date": "2026-11-15T16:56:37Z",
+          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v2.1.2/HGhubX_2.1.2_ios.ipa",
+          "size": 3852817,
           "minOSVersion": "15.0"
         }
       ],
@@ -415,6 +415,24 @@
       "tintColor": "#1E8FC7",
       "category": "utilities",
       "versions": [
+        {
+          "version": "0.9.10",
+          "buildVersion": "90",
+          "date": "2026-11-15",
+          "size": 1918805,
+          "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.10/WQFiles.ipa",
+          "localizedDescription": "Fixes installed apps missing from Apps, App Data and Extension Data (e.g. on iOS 26.5).",
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.9.9",
+          "buildVersion": "89",
+          "date": "2026-11-15",
+          "size": 1918433,
+          "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.9/WQFiles.ipa",
+          "localizedDescription": "App Groups now show their names on iOS 27.2+. Plain Background option, dark and tinted app icon, files you can't open are dimmed, and a clear notice on iOS 18 and older.",
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.9.8",
           "buildVersion": "88",
