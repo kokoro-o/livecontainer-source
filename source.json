@@ -603,6 +603,23 @@
         "privacy": {}
       },
       "xSourceURL": "https://raw.githubusercontent.com/kolbicz/WQFiles/main/source.json"
+    },
+    {
+      "name": "Camlo",
+      "bundleIdentifier": "com.kianuni.Camlo",
+      "developerName": "Kianuni",
+      "localizedDescription": "来自 GitHub 官方项目 Kianuni/Camlo。",
+      "iconURL": "https://github.com/Kianuni.png",
+      "versions": [
+        {
+          "version": "1.3.0",
+          "date": "2026-11-16T02:20:27Z",
+          "downloadURL": "https://github.com/Kianuni/Camlo/releases/download/v1.3.0/Camlo_v1.3.0_Bilingual.ipa",
+          "size": 9528701,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "xGithubRepository": "Kianuni/Camlo"
     }
   ],
   "news": []
