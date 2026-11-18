@@ -13,7 +13,7 @@
         {
           "version": "1.1.1",
           "date": "2026-11-13T16:46:05Z",
-          "downloadURL": "https://github.com/huami-dev/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
+          "downloadURL": "https://github.com/huami1314/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
           "size": 6774794,
           "minOSVersion": "26.0"
         }
@@ -45,10 +45,10 @@
       "iconURL": "https://github.com/hseons.png",
       "versions": [
         {
-          "version": "0.4",
-          "date": "2026-11-16T13:47:46Z",
-          "downloadURL": "https://github.com/hseons/WQManager/releases/download/v0.4.4/WQManager-0.4-build16-unsigned.ipa",
-          "size": 891285,
+          "version": "0.5",
+          "date": "2026-11-18T11:48:53Z",
+          "downloadURL": "https://github.com/hseons/WQManager/releases/download/v0.5.0/WQManager-0.5-build1-unsigned.ipa",
+          "size": 952702,
           "minOSVersion": "26.0"
         }
       ],
@@ -62,10 +62,10 @@
       "iconURL": "https://github.com/mengangs.png",
       "versions": [
         {
-          "version": "2.2.0",
-          "date": "2026-11-18T02:18:30Z",
-          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.2.0/iPadn-2.2.0-unsigned.ipa",
-          "size": 50642919,
+          "version": "2.2.1",
+          "date": "2026-11-18T10:04:29Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.2.1/iPadn-2.2.1-unsigned.ipa",
+          "size": 50742804,
           "minOSVersion": "16.0"
         }
       ],
