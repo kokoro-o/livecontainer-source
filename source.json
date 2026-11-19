@@ -28,10 +28,10 @@
       "iconURL": "https://github.com/QuinnTang74.png",
       "versions": [
         {
-          "version": "3.2.7",
-          "date": "2026-11-19T04:39:06Z",
-          "downloadURL": "https://github.com/QuinnTang74/3106/releases/download/v3.2.7/3106-3.2.7-unsigned.ipa",
-          "size": 5880602,
+          "version": "3.2.8",
+          "date": "2026-11-19T17:56:05Z",
+          "downloadURL": "https://github.com/QuinnTang74/3106/releases/download/v3.2.8/3106-3.2.8-unsigned.ipa",
+          "size": 5955049,
           "minOSVersion": "16.0"
         }
       ],
@@ -147,10 +147,10 @@
       "iconURL": "https://github.com/Kianuni.png",
       "versions": [
         {
-          "version": "1.0.5",
-          "date": "2026-11-17T23:33:43Z",
-          "downloadURL": "https://github.com/Kianuni/Erosion-CN/releases/download/v1.0.5/Erosion_v1.0.5_Bilingual.ipa",
-          "size": 6875541,
+          "version": "1.0.6",
+          "date": "2026-11-19T13:48:12Z",
+          "downloadURL": "https://github.com/Kianuni/Erosion-CN/releases/download/v1.0.6/Erosion_v1.0.6_Bilingual.ipa",
+          "size": 6948787,
           "minOSVersion": "26.0"
         }
       ],
