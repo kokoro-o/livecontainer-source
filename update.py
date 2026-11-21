@@ -8,6 +8,7 @@ REPOS = [
  ('HGhubX','zxsos/HGhubX',None), ('AniCh','Sle2p/AniCh',None),
  ('Beans Music','XIaodou0416/Beans-Music',None), ('Cloudn','mengangs/Cloudn',None),
  ('Erosion-CN','Kianuni/Erosion-CN',None), ('Kazumi','Predidit/Kazumi',None),
+ ('Andarium','imxieyi/Kernarium',None),
  ('Regitela','ichitaso/Regitela',None),
  ('Henge','Leviidev/Henge',None),
  ('placard','frs0n/placard',None),

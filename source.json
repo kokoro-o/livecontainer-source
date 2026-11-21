@@ -692,6 +692,23 @@
         "privacy": {}
       },
       "xSourceURL": "https://raw.githubusercontent.com/kolbicz/WQFiles/main/source.json"
+    },
+    {
+      "name": "Andarium",
+      "bundleIdentifier": "com.imxieyi.andarium",
+      "developerName": "imxieyi",
+      "localizedDescription": "来自 GitHub 官方项目 imxieyi/Kernarium。",
+      "iconURL": "https://github.com/imxieyi.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-18T19:26:48Z",
+          "downloadURL": "https://github.com/imxieyi/Kernarium/releases/download/1.0b15-release/Andarium-1.0-15.ipa",
+          "size": 1061900449,
+          "minOSVersion": "27.0"
+        }
+      ],
+      "xGithubRepository": "imxieyi/Kernarium"
     }
   ],
   "news": []
