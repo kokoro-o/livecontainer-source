@@ -62,11 +62,11 @@
       "iconURL": "https://github.com/mengangs.png",
       "versions": [
         {
-          "version": "2.3.0",
-          "date": "2026-11-20T12:50:39Z",
-          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.0/iPadn-2.3.0-unsigned.ipa",
-          "size": 46432455,
-          "minOSVersion": "17.0"
+          "version": "2.3.1",
+          "date": "2026-11-21T05:47:39Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.1/iPadn-2.3.1-unsigned.ipa",
+          "size": 46562021,
+          "minOSVersion": "16.0"
         }
       ],
       "xGithubRepository": "mengangs/ipadn"
@@ -164,14 +164,31 @@
       "iconURL": "https://github.com/Predidit.png",
       "versions": [
         {
-          "version": "2.4.4",
-          "date": "2026-11-12T10:27:44Z",
-          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.4/Kazumi_ios_2.4.4_no_sign.ipa",
-          "size": 30341213,
+          "version": "2.4.5",
+          "date": "2026-11-21T05:56:21Z",
+          "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.5/Kazumi_ios_2.4.5_no_sign.ipa",
+          "size": 30370674,
           "minOSVersion": "15.0"
         }
       ],
       "xGithubRepository": "Predidit/Kazumi"
+    },
+    {
+      "name": "Andarium",
+      "bundleIdentifier": "com.imxieyi.andarium",
+      "developerName": "imxieyi",
+      "localizedDescription": "来自 GitHub 官方项目 imxieyi/Kernarium。",
+      "iconURL": "https://github.com/imxieyi.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-18T19:26:48Z",
+          "downloadURL": "https://github.com/imxieyi/Kernarium/releases/download/1.0b15-release/Andarium-1.0-15.ipa",
+          "size": 1061900449,
+          "minOSVersion": "27.0"
+        }
+      ],
+      "xGithubRepository": "imxieyi/Kernarium"
     },
     {
       "name": "Regitela",
@@ -181,10 +198,10 @@
       "iconURL": "https://github.com/ichitaso.png",
       "versions": [
         {
-          "version": "1.0.5",
-          "date": "2026-11-17T23:07:30Z",
-          "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.5/Regitela_1.0.5.ipa",
-          "size": 3782806,
+          "version": "1.0.6",
+          "date": "2026-11-20T20:33:32Z",
+          "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.6/Regitela_1.0.6.ipa",
+          "size": 3784869,
           "minOSVersion": "17.0"
         }
       ],
@@ -692,23 +709,6 @@
         "privacy": {}
       },
       "xSourceURL": "https://raw.githubusercontent.com/kolbicz/WQFiles/main/source.json"
-    },
-    {
-      "name": "Andarium",
-      "bundleIdentifier": "com.imxieyi.andarium",
-      "developerName": "imxieyi",
-      "localizedDescription": "来自 GitHub 官方项目 imxieyi/Kernarium。",
-      "iconURL": "https://github.com/imxieyi.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2026-11-18T19:26:48Z",
-          "downloadURL": "https://github.com/imxieyi/Kernarium/releases/download/1.0b15-release/Andarium-1.0-15.ipa",
-          "size": 1061900449,
-          "minOSVersion": "27.0"
-        }
-      ],
-      "xGithubRepository": "imxieyi/Kernarium"
     }
   ],
   "news": []
