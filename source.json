@@ -79,10 +79,10 @@
       "iconURL": "https://github.com/zxsos.png",
       "versions": [
         {
-          "version": "2.2.6",
-          "date": "2026-11-21T17:01:54Z",
-          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v2.2.6/HGhubX_2.2.6_ios.ipa",
-          "size": 3990783,
+          "version": "2.2.7",
+          "date": "2026-11-22T12:13:11Z",
+          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v2.2.7/HGhubX_2.2.7_ios.ipa",
+          "size": 3992968,
           "minOSVersion": "15.0"
         }
       ],
@@ -181,11 +181,11 @@
       "iconURL": "https://github.com/imxieyi.png",
       "versions": [
         {
-          "version": "1.0",
-          "date": "2026-11-18T19:26:48Z",
-          "downloadURL": "https://github.com/imxieyi/Kernarium/releases/download/1.0b15-release/Andarium-1.0-15.ipa",
-          "size": 1061900449,
-          "minOSVersion": "27.0"
+          "version": "1.1",
+          "date": "2026-11-22T18:45:39Z",
+          "downloadURL": "https://github.com/imxieyi/Kernarium/releases/download/andarium-1.1/Andarium-1.1-16.ipa",
+          "size": 1248669708,
+          "minOSVersion": "26.0"
         }
       ],
       "xGithubRepository": "imxieyi/Kernarium"
@@ -198,10 +198,10 @@
       "iconURL": "https://github.com/ichitaso.png",
       "versions": [
         {
-          "version": "1.0.6",
-          "date": "2026-11-20T20:33:32Z",
-          "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.6/Regitela_1.0.6.ipa",
-          "size": 3784869,
+          "version": "1.0.7",
+          "date": "2026-11-22T13:13:43Z",
+          "downloadURL": "https://github.com/ichitaso/Regitela/releases/download/v1.0.7/Regitela_1.0.7.ipa",
+          "size": 3785530,
           "minOSVersion": "17.0"
         }
       ],
