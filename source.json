@@ -62,10 +62,10 @@
       "iconURL": "https://github.com/mengangs.png",
       "versions": [
         {
-          "version": "2.3.4",
-          "date": "2026-11-22T05:56:54Z",
-          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.4/iPadn-2.3.4-unsigned.ipa",
-          "size": 49929497,
+          "version": "2.3.5",
+          "date": "2026-11-23T15:22:43Z",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.5/iPadn-2.3.5-unsigned.ipa",
+          "size": 50052300,
           "minOSVersion": "16.0"
         }
       ],
