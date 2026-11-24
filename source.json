@@ -79,10 +79,10 @@
       "iconURL": "https://github.com/zxsos.png",
       "versions": [
         {
-          "version": "2.2.8",
-          "date": "2026-11-23T03:55:29Z",
-          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v2.2.8/HGhubX_2.2.8_ios.ipa",
-          "size": 4004198,
+          "version": "2.2.9",
+          "date": "2026-11-24T00:07:31Z",
+          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v2.2.9/HGhubX_2.2.9_ios.ipa",
+          "size": 4009527,
           "minOSVersion": "15.0"
         }
       ],
