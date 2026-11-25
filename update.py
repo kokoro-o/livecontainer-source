@@ -81,6 +81,8 @@ def main():
     apps[i]=(previous_source if is_source else previous).get(key)
     errors.append(name+': '+str(e)); print('ERROR',errors[-1],flush=True)
  apps=[a for a in apps if a]
+ priority={'com.jbdotparty.Erosion':0, 'cz.kolbi.wqfiles':1}
+ apps.sort(key=lambda app: priority.get(app['bundleIdentifier'], len(priority)))
  ids=[a['bundleIdentifier'] for a in apps]
  if len(ids)!=len(set(ids)): raise ValueError('应用 bundleIdentifier 重复')
  if not apps: raise ValueError('没有可用应用，拒绝覆盖原有源')
