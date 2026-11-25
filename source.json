@@ -21,23 +21,6 @@
       "xGithubRepository": "huamidev/GestaltX"
     },
     {
-      "name": "3106",
-      "bundleIdentifier": "com.qingtang.3106",
-      "developerName": "QuinnTang74",
-      "localizedDescription": "来自 GitHub 官方项目 QuinnTang74/3106。",
-      "iconURL": "https://github.com/QuinnTang74.png",
-      "versions": [
-        {
-          "version": "3.2.8",
-          "date": "2026-11-19T17:56:05Z",
-          "downloadURL": "https://github.com/QuinnTang74/3106/releases/download/v3.2.8/3106-3.2.8-unsigned.ipa",
-          "size": 5955049,
-          "minOSVersion": "16.0"
-        }
-      ],
-      "xGithubRepository": "QuinnTang74/3106"
-    },
-    {
       "name": "WQManager",
       "bundleIdentifier": "mumu.pduola.WQManager",
       "developerName": "hseons",

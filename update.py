@@ -3,7 +3,7 @@ import concurrent.futures, json, os, pathlib, plistlib, re, sys, tempfile, urlli
 
 ROOT = pathlib.Path(__file__).resolve().parent
 REPOS = [
- ('GestaltX','huamidev/GestaltX',None), ('3106','QuinnTang74/3106',None),
+ ('GestaltX','huamidev/GestaltX',None),
  ('WQManager','hseons/WQManager',None), ('iPadn','mengangs/ipadn',r'(?i)^(?!.*lite).*\.ipa$'),
  ('HGhubX','zxsos/HGhubX',None), ('AniCh','Sle2p/AniCh',None),
  ('Beans Music','XIaodou0416/Beans-Music',None), ('Cloudn','mengangs/Cloudn',None),
