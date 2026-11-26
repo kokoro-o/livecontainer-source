@@ -25,11 +25,20 @@
       "bundleIdentifier": "cz.kolbi.wqfiles",
       "developerName": "kolbicz",
       "subtitle": "File manager for iOS 26 and 27 (worse_query)",
-      "localizedDescription": "File browser, app data manager and cache cleaner for iOS 26 and 27, built on the worse_query sandbox technique. No jailbreak and no kernel exploit.\n\n• Browse every app's data container, app groups, extension and daemon containers\n• Plist editor and hex viewer/editor; edits are backed up first\n• Select, move across apps, compress and extract ZIPs; import files and whole folders\n• Syntax highlighting, SQLite viewer and media player\n• Back up, restore and clear app data; AirDrop backups as ZIP\n• Cache cleaner\n\niOS 26 and 27 (tested on 26.7.1, 27.0.1 and 27.2.1; on iOS 26, System Data and System Groups are not available). Needs a signer that keeps the App Group entitlement (AltStore, SideStore or Impactor; not Sideloadly).",
+      "localizedDescription": "File browser, app data manager and cache cleaner for iOS 26 and 27, built on the worse_query sandbox technique. No jailbreak and no kernel exploit.\n\n• Browse every app's data container, app groups, extension and daemon containers\n• Plist editor and hex viewer/editor; edits are backed up first\n• Select, move across apps, compress and extract ZIPs; import files and whole folders\n• Syntax highlighting, SQLite viewer and media player\n• Back up, restore and clear app data; AirDrop backups as ZIP\n• Cache cleaner\n• Shortcuts actions for files, cache cleaning and app backups\n\niOS 26 and 27 (tested on 26.7.1, 27.0.1 and 27.2.1; on iOS 26, System Data and System Groups are not available). Needs a signer that keeps the App Group entitlement (AltStore, SideStore or Impactor; not Sideloadly).",
       "iconURL": "https://raw.githubusercontent.com/kolbicz/WQFiles/main/icons/AppIcon1024.png",
       "tintColor": "#1E8FC7",
       "category": "utilities",
       "versions": [
+        {
+          "version": "0.9.30",
+          "buildVersion": "115",
+          "date": "2026-11-26",
+          "size": 2268148,
+          "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.30/WQFiles.ipa",
+          "localizedDescription": "Shortcuts actions for files and apps (list, get, save, copy, move, rename, delete, clean caches, back up), a working update check, and many fixes from a full code review: safer restores and imports, fewer hangs, faster lists.",
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.9.20",
           "buildVersion": "114",
@@ -359,10 +368,10 @@
       "iconURL": "https://github.com/zxsos.png",
       "versions": [
         {
-          "version": "2.2.10",
-          "date": "2026-11-24T10:16:05Z",
-          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v2.2.10/HGhubX_2.2.10_ios.ipa",
-          "size": 4048150,
+          "version": "3.0.0",
+          "date": "2026-11-26T14:16:54Z",
+          "downloadURL": "https://github.com/zxsos/HGhubX/releases/download/v3.0.0/HGhubX_3.0.0_ios.ipa",
+          "size": 4865415,
           "minOSVersion": "15.0"
         }
       ],
@@ -529,10 +538,10 @@
       "iconURL": "https://github.com/Reukix.png",
       "versions": [
         {
-          "version": "1.0",
-          "date": "2026-11-25T18:52:38Z",
-          "downloadURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.0/Reloc.ipa",
-          "size": 4500835,
+          "version": "1.0.2",
+          "date": "2026-11-26T17:31:32Z",
+          "downloadURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.2/Reloc.ipa",
+          "size": 4533520,
           "minOSVersion": "17.0"
         }
       ],
