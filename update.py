@@ -13,6 +13,7 @@ REPOS = [
  ('Henge','Leviidev/Henge',None),
  ('placard','frs0n/placard',None),
  ('Camlo','Kianuni/Camlo',None),
+ ('Reloc','Reukix/Reloc',None),
 ]
 SOURCES = [
  ('One','https://raw.githubusercontent.com/ios151/One-releases/main/altsource.json'),

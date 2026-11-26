@@ -522,6 +522,23 @@
       "xGithubRepository": "Kianuni/Camlo"
     },
     {
+      "name": "Reloc",
+      "bundleIdentifier": "dev.reloc.ios",
+      "developerName": "Reukix",
+      "localizedDescription": "来自 GitHub 官方项目 Reukix/Reloc。",
+      "iconURL": "https://github.com/Reukix.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-11-25T18:52:38Z",
+          "downloadURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.0/Reloc.ipa",
+          "size": 4500835,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "xGithubRepository": "Reukix/Reloc"
+    },
+    {
       "name": "One",
       "bundleIdentifier": "com.ios151.one",
       "developerName": "ios151",
