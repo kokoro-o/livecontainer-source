@@ -385,10 +385,10 @@
       "iconURL": "https://github.com/Sle2p.png",
       "versions": [
         {
-          "version": "1.5.27",
-          "date": "2026-10-05T03:15:29Z",
-          "downloadURL": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-ios-no_sign-1.5.27.ipa",
-          "size": 41226765,
+          "version": "1.5.28",
+          "date": "2026-11-27T01:01:29Z",
+          "downloadURL": "https://github.com/Sle2p/AniCh/releases/download/1.5.28/anich-ios-no_sign-1.5.28.ipa",
+          "size": 41232889,
           "minOSVersion": "12.0"
         }
       ],
